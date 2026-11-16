@@ -2,8 +2,7 @@
 
 An end-to-end analytics project on 103,024 Ola cab bookings from July 2024. It covers SQL analysis, Python data preprocessing, an interactive Streamlit dashboard and a Power BI dashboard, and it answers one question: **why do four in ten bookings never turn into a completed ride, and what would it take to fix that?**
 
-> Live dashboard: add the Streamlit link here after deploying
-> Power BI dashboard: add screenshots or link here (see [Power BI](#power-bi-dashboard))
+> Live dashboard: [add the Streamlit link here after deploying](https://ola-rides-analysis.streamlit.app/)
 
 ---
 
