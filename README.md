@@ -15,7 +15,7 @@ A deliberate part of the project is honesty about the data. Several results are 
 ## Repository structure
 
 ```
-ola-ride-insights/
+ola-ride-analysis/
 ├── README.md
 ├── app.py                        Streamlit entry point: navigation, theme, shared filters
 ├── requirements.txt
