@@ -155,8 +155,8 @@ The SQL Playground and Findings pages always use the full dataset. Custom querie
 ## How to run
 
 ```bash
-git clone https://github.com/samarthgupta95/ola-ride-insights.git
-cd ola-ride-insights
+git clone https://github.com/samarthgupta95/ola-ride-analysis.git
+cd ola-ride-analysis
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
