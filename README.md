@@ -49,7 +49,7 @@ ola-ride-analysis/
 │   ├── insights.py               Statistics behind the Findings page
 │   ├── sql_library.py            Queries shown in the SQL playground
 │   └── compat.py                 Streamlit version compatibility
-└── powerbi/                         Power BI report and 
+└── powerbi/                         Power BI report
 │   ├── ola-rides_bi_dashboard.pbix                  
 │   ├── ola-rides_bi_dashboard.pdf
 ```
