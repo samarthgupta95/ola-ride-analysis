@@ -42,14 +42,14 @@ ola-ride-analysis/
 │   ├── sql_playground.py
 │   └── findings.py
 ├── utils/ 
-│   ├── theme.py                     Colours, CSS and HTML building blocks
-│   ├── charts.py                    Plotly helpers
-│   ├── data.py                      Loading, filters, read-only DuckDB layer
-│   ├── metrics.py                   Shared calculations
-│   ├── insights.py                  Statistics behind the Findings page
-│   ├── sql_library.py               Queries shown in the SQL playground
-│   └── compat.py                    Streamlit version compatibility
-└── powerbi/                         Power BI report and screenshots
+│   ├── theme.py                  Colours, CSS and HTML building blocks
+│   ├── charts.py                 Plotly helpers
+│   ├── data.py                   Loading, filters, read-only DuckDB layer
+│   ├── metrics.py                Shared calculations
+│   ├── insights.py               Statistics behind the Findings page
+│   ├── sql_library.py            Queries shown in the SQL playground
+│   └── compat.py                 Streamlit version compatibility
+└── powerbi/                         Power BI report and 
 │   ├── ola-rides_bi_dashboard.pbix                  
 │   ├── ola-rides_bi_dashboard.pdf
 ```
